@@ -13,6 +13,11 @@
 
 ### Git
 
+### General 
+- [Code Complete](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=dp_kinw_strp_1) by Steve McConnell
+- [Clean Code: A Handbook of Agile Software Craftsmanship Kindle Edition](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=) by Robert C. Martin 
+- [Unix Power Tools](https://www.amazon.com/Unix-Power-Tools-Shelley-Powers-ebook/dp/B0043EWUT8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1477760328&sr=1-1&keywords=Unix+Powertools) by Shelley Powers (Author), Mike Loukides (Author), Jerry Peek (Author), Tim O'Reilly (Author)
+
 ### Raspberry Pi
 
 ### Vim
