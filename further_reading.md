@@ -3,7 +3,10 @@
 ## Further Reading
 
 ### Angular
-- ???
+- https://angularjs.org/
+- https://egghead.io/
+- http://todomvc.com/
+- http://gulpjs.com/
 
 ### AWS
 - [Introduction](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html)
@@ -23,7 +26,8 @@
 - [Unix Power Tools](https://www.amazon.com/Unix-Power-Tools-Shelley-Powers-ebook/dp/B0043EWUT8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1477760328&sr=1-1&keywords=Unix+Powertools) by Shelley Powers (Author), Mike Loukides (Author), Jerry Peek (Author), Tim O'Reilly (Author)
 
 ### Raspberry Pi
-- ???
+- https://www.npmjs.com/package/onoff
+- https://www.amazon.com/DIYmall-HC-SR501-Pyroelectric-Infrared-Detector/dp/B012ZZ4LPM
 
 ### Vim
 - [Learning the vi and Vim Editors: Edition 7](https://play.google.com/store/books/details?id=J5nKVVg5YHAC&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1&gclid=CMnWxfCW-c8CFdB6gQods5QNSw&gclsrc=ds) By Robbins, Hannah, Lamb
